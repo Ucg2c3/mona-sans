@@ -33,3 +33,11 @@ rm -rf fonts/googlefonts/webfonts/
 # pull google variable fonts out of folder
 mv fonts/googlefonts/variable/* fonts/googlefonts/
 rm -rf fonts/googlefonts/variable/
+
+# remove buggy .woff2 that gftools builder creates
+rm -f fonts/webfonts/static/MonaSans[ital,wdth,wght].woff2
+
+# clean up build artifacts
+rm -rf sources/instance_ufos
+rm sources/.ninja_log
+rm sources/build.ninja
