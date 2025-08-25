@@ -29,6 +29,8 @@ jobs:
       - name: Extract version from tag or input
         id: version
         run: |
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
+            VERSION="${{ github.event.inputs.version }}"
             if [[ "$VERSION" == v* ]]; then
               TAG="$VERSION"
             else
@@ -106,7 +108,11 @@ jobs:
           body_path: release_notes.md
           draft: true
           prerelease: false
-          files: release-files.txt
+          files: |
+            release-artifacts/mona-sans-static-v${{ steps.version.outputs.version }}.zip
+            release-artifacts/mona-sans-variable-v${{ steps.version.outputs.version }}.zip
+            release-artifacts/mona-sans-webfonts-v${{ steps.version.outputs.version }}.zip
+            release-artifacts/mona-sans-complete-v${{ steps.version.outputs.version }}.zip
       
       - name: Upload build artifacts
         uses: actions/upload-artifact@v4
