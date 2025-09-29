@@ -1,15 +1,20 @@
 #!/bin/bash
 # build.sh - Font building script for Mona Sans
+# run from the root!
 
 set -e  # Exit on any error
-
 # Check if running from the correct directory
 if [ ! -f "sources/config.yaml" ]; then
   echo "Error: Please run this script from the root of the repository."
   exit 1
 fi
 
+# move glyph generated variable .woff2 files into webfonts folder
+mv fonts/variable/*.woff2 fonts/webfonts/variable/
+mv fonts/variable/*.woff fonts/webfonts/variable/
+
 echo "Starting Mona Sans Google Fonts build process..."
+
 
 # Check for required tools
 command -v gftools >/dev/null 2>&1 || { echo "Error: gftools is required but not installed. Aborting."; exit 1; }

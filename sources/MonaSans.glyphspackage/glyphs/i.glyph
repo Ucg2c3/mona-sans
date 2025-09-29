@@ -5,6 +5,15 @@ kernLeft = KO_i;
 kernRight = KO_l;
 layers = (
 {
+anchors = (
+{
+name = "#entry";
+},
+{
+name = "#exit";
+pos = (231,0);
+}
+);
 layerId = "E787E54A-EE3E-475A-BF02-8501A6DA5144";
 shapes = (
 {
@@ -18,6 +27,15 @@ ref = dotaccentcomb;
 width = 231;
 },
 {
+anchors = (
+{
+name = "#entry";
+},
+{
+name = "#exit";
+pos = (149,0);
+}
+);
 background = {
 shapes = (
 {
@@ -44,6 +62,15 @@ ref = dotaccentcomb;
 width = 149;
 },
 {
+anchors = (
+{
+name = "#entry";
+},
+{
+name = "#exit";
+pos = (169,0);
+}
+);
 layerId = "28A8A76A-23B4-40F5-83B9-DC51E48BF161";
 shapes = (
 {
@@ -57,6 +84,15 @@ ref = dotaccentcomb;
 width = 169;
 },
 {
+anchors = (
+{
+name = "#entry";
+},
+{
+name = "#exit";
+pos = (307,0);
+}
+);
 layerId = "D2144554-01B8-4B9B-B16A-E0E5B5794DFC";
 shapes = (
 {
@@ -70,6 +106,15 @@ ref = dotaccentcomb;
 width = 307;
 },
 {
+anchors = (
+{
+name = "#entry";
+},
+{
+name = "#exit";
+pos = (102,0);
+}
+);
 background = {
 shapes = (
 {
@@ -96,6 +141,15 @@ ref = dotaccentcomb;
 width = 102;
 },
 {
+anchors = (
+{
+name = "#entry";
+},
+{
+name = "#exit";
+pos = (209,0);
+}
+);
 layerId = "FFCA1F59-E305-4E0F-BBF9-E0C4511C19C1";
 shapes = (
 {
@@ -109,6 +163,15 @@ ref = dotaccentcomb;
 width = 209;
 },
 {
+anchors = (
+{
+name = "#entry";
+},
+{
+name = "#exit";
+pos = (154,0);
+}
+);
 layerId = "5A048DDA-4734-4F8A-A53C-0BED34B57D1C";
 shapes = (
 {
@@ -186,6 +249,15 @@ type = Stem;
 width = 154;
 },
 {
+anchors = (
+{
+name = "#entry";
+},
+{
+name = "#exit";
+pos = (251,0);
+}
+);
 layerId = "DED42A87-C949-4722-A202-2B551272A3FB";
 shapes = (
 {
@@ -203,6 +275,15 @@ com.schriftgestaltung.Glyphs.glyph.rightMetricsKey = l;
 width = 251;
 },
 {
+anchors = (
+{
+name = "#entry";
+},
+{
+name = "#exit";
+pos = (149,0);
+}
+);
 layerId = "106FCE83-F343-403B-A314-646E4D059B3F";
 shapes = (
 {
@@ -216,6 +297,15 @@ ref = dotaccentcomb;
 width = 149;
 },
 {
+anchors = (
+{
+name = "#entry";
+},
+{
+name = "#exit";
+pos = (287,0);
+}
+);
 layerId = "2D1A1AFE-39FB-4EBD-856C-88C6B057247F";
 shapes = (
 {
@@ -229,6 +319,15 @@ ref = dotaccentcomb;
 width = 287;
 },
 {
+anchors = (
+{
+name = "#entry";
+},
+{
+name = "#exit";
+pos = (205,0);
+}
+);
 layerId = m019;
 shapes = (
 {
@@ -306,6 +405,15 @@ type = Stem;
 width = 205;
 },
 {
+anchors = (
+{
+name = "#entry";
+},
+{
+name = "#exit";
+pos = (303,0);
+}
+);
 layerId = m020;
 shapes = (
 {
@@ -323,6 +431,15 @@ com.schriftgestaltung.Glyphs.glyph.rightMetricsKey = l;
 width = 303;
 },
 {
+anchors = (
+{
+name = "#entry";
+},
+{
+name = "#exit";
+pos = (151,0);
+}
+);
 layerId = "23BA42C1-D468-4A44-9BE5-E18AE60B7926";
 shapes = (
 {
@@ -336,6 +453,15 @@ ref = dotaccentcomb;
 width = 151;
 },
 {
+anchors = (
+{
+name = "#entry";
+},
+{
+name = "#exit";
+pos = (229,0);
+}
+);
 background = {
 shapes = (
 {
@@ -379,6 +505,15 @@ ref = dotaccentcomb;
 width = 229;
 },
 {
+anchors = (
+{
+name = "#entry";
+},
+{
+name = "#exit";
+pos = (206,0);
+}
+);
 layerId = "095FE76F-1953-440B-9108-AA0678D151F9";
 shapes = (
 {
@@ -392,6 +527,15 @@ ref = dotaccentcomb;
 width = 206;
 },
 {
+anchors = (
+{
+name = "#entry";
+},
+{
+name = "#exit";
+pos = (302,0);
+}
+);
 background = {
 shapes = (
 {
@@ -435,6 +579,15 @@ ref = dotaccentcomb;
 width = 302;
 },
 {
+anchors = (
+{
+name = "#entry";
+},
+{
+name = "#exit";
+pos = (168,0);
+}
+);
 layerId = "C17B1F32-8075-45B4-AA59-7DAFF0D7E404";
 shapes = (
 {
@@ -448,6 +601,15 @@ ref = dotaccentcomb;
 width = 168;
 },
 {
+anchors = (
+{
+name = "#entry";
+},
+{
+name = "#exit";
+pos = (306,0);
+}
+);
 layerId = "377EF8AC-8B0D-46C2-96BB-3B5B69A8F571";
 shapes = (
 {

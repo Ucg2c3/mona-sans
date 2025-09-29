@@ -4751,7 +4751,11 @@ value = (
 "Condensed ExtraLight",
 "Condensed Black",
 "Expanded ExtraLight",
-"Expanded Black"
+"Expanded Black",
+"Display Condensed ExtraLight",
+"Display Condensed Black",
+"Display Expanded ExtraLight",
+"Display Expanded Black"
 );
 }
 );

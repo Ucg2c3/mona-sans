@@ -11,7 +11,7 @@ This will also produce the static fonts.
 
 ### MonaSansVF Build (via Glyphs.app)
 
-For the MonaSansVF version:
+Because we are distributing multiple cuts of the variable font, these exports come from Glyphs.
 
 1. Open the Mona Sans project in Glyphs.app
 2. Use File > Export > Variable Font
