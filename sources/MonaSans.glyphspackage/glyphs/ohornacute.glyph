@@ -150,11 +150,11 @@ shapes = (
 ref = ohorn;
 },
 {
-pos = (241,-155);
+pos = (239,-155);
 ref = acutecomb;
 }
 );
-width = 584;
+width = 578;
 },
 {
 layerId = m020;

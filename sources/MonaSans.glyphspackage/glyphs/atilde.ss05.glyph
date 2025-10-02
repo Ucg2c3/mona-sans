@@ -145,11 +145,11 @@ shapes = (
 ref = a.ss05;
 },
 {
-pos = (64,-155);
+pos = (63,-155);
 ref = tildecomb;
 }
 );
-width = 524;
+width = 519;
 },
 {
 layerId = m020;

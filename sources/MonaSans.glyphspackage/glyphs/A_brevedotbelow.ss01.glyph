@@ -180,15 +180,15 @@ shapes = (
 ref = A;
 },
 {
-pos = (278,0);
+pos = (276,0);
 ref = dotbelowcomb.ss01;
 },
 {
-pos = (170,51);
+pos = (169,51);
 ref = brevecomb;
 }
 );
-width = 673;
+width = 670;
 },
 {
 layerId = m020;

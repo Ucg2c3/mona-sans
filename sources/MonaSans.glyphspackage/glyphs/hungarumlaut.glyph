@@ -110,7 +110,7 @@ alignment = 1;
 ref = hungarumlautcomb;
 }
 );
-width = 320;
+width = 317;
 },
 {
 layerId = m020;

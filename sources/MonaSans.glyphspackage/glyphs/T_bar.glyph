@@ -141,11 +141,11 @@ shapes = (
 ref = T;
 },
 {
-pos = (102,11);
+pos = (101,11);
 ref = strokeshortcomb.case.T;
 }
 );
-width = 649;
+width = 647;
 },
 {
 layerId = m020;

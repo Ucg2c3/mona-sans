@@ -114,7 +114,7 @@ pos = (0,213);
 ref = questiondown;
 }
 );
-width = 513;
+width = 512;
 },
 {
 layerId = m020;

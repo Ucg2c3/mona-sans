@@ -143,11 +143,11 @@ shapes = (
 ref = T;
 },
 {
-pos = (187,0);
+pos = (185,0);
 ref = cedillacomb.T;
 }
 );
-width = 649;
+width = 647;
 },
 {
 layerId = m020;

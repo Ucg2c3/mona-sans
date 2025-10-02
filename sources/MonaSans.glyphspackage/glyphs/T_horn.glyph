@@ -745,11 +745,11 @@ alignment = -1;
 ref = I;
 },
 {
-pos = (89,0);
+pos = (88,0);
 ref = _Thorn.bowl;
 }
 );
-width = 624;
+width = 622;
 },
 {
 background = {

@@ -150,11 +150,11 @@ shapes = (
 ref = o;
 },
 {
-pos = (133,-155);
+pos = (132,-155);
 ref = circumflexcomb_gravecomb;
 }
 );
-width = 592;
+width = 586;
 },
 {
 layerId = m020;

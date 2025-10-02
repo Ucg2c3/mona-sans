@@ -144,11 +144,11 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (-96,-155);
+pos = (-95,-155);
 ref = macroncomb;
 }
 );
-width = 205;
+width = 203;
 },
 {
 layerId = m020;

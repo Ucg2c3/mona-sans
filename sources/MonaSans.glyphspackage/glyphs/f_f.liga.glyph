@@ -292,7 +292,7 @@ shapes = (
 ref = f;
 },
 {
-pos = (266,0);
+pos = (263,0);
 ref = f;
 }
 );
@@ -356,7 +356,7 @@ type = Stem;
 }
 );
 };
-width = 580;
+width = 574;
 },
 {
 background = {

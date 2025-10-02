@@ -143,11 +143,11 @@ shapes = (
 ref = A;
 },
 {
-pos = (170,51);
+pos = (169,51);
 ref = brevecomb_hookabovecomb;
 }
 );
-width = 673;
+width = 670;
 },
 {
 layerId = m020;

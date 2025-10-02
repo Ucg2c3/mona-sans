@@ -232,7 +232,7 @@ alignment = -1;
 ref = O;
 },
 {
-pos = (370,0);
+pos = (366,0);
 ref = _tail.Q;
 }
 );
@@ -312,7 +312,7 @@ type = Stem;
 }
 );
 };
-width = 817;
+width = 813;
 },
 {
 layerId = m020;

@@ -130,11 +130,11 @@ shapes = (
 {
 alignment = 3;
 angle = 180;
-pos = (336,583);
+pos = (337,583);
 ref = quotedblbase;
 }
 );
-width = 336;
+width = 337;
 },
 {
 layerId = m020;

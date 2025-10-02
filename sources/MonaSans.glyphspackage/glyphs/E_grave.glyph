@@ -143,11 +143,11 @@ shapes = (
 ref = E;
 },
 {
-pos = (204,57);
+pos = (202,57);
 ref = gravecomb;
 }
 );
-width = 625;
+width = 623;
 },
 {
 layerId = m020;

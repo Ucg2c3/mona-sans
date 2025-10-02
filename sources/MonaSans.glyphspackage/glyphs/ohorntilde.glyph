@@ -150,11 +150,11 @@ shapes = (
 ref = ohorn;
 },
 {
-pos = (108,-155);
+pos = (107,-155);
 ref = tildecomb;
 }
 );
-width = 584;
+width = 578;
 },
 {
 layerId = m020;

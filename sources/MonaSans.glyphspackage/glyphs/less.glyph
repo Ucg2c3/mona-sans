@@ -158,7 +158,7 @@ shapes = (
 {
 alignment = 3;
 angle = 180;
-pos = (595,722);
+pos = (589,722);
 ref = greater;
 }
 );
@@ -192,7 +192,7 @@ type = Stem;
 }
 );
 };
-width = 595;
+width = 589;
 },
 {
 layerId = m020;

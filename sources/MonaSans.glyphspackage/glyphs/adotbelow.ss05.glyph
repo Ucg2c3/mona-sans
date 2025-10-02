@@ -145,11 +145,11 @@ shapes = (
 ref = a.ss05;
 },
 {
-pos = (180,0);
+pos = (178,0);
 ref = dotbelowcomb;
 }
 );
-width = 524;
+width = 519;
 },
 {
 layerId = m020;

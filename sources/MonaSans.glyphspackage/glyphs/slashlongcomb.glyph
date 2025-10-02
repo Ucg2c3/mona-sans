@@ -221,7 +221,7 @@ width = 737;
 anchors = (
 {
 name = _center;
-pos = (293,259);
+pos = (292,259);
 }
 );
 layerId = m019;
@@ -229,17 +229,17 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(81,-60,l),
-(545,577,l),
-(505,577,l),
-(41,-60,l)
+(82,-60,l),
+(542,577,l),
+(502,577,l),
+(43,-60,l)
 );
 }
 );
 userData = {
 com.schriftgestaltung.Glyphs.originalWidth = 441;
 };
-width = 584;
+width = 582;
 },
 {
 anchors = (

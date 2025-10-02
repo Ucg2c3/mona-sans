@@ -80,7 +80,7 @@ shapes = (
 ref = f;
 }
 );
-width = 314;
+width = 311;
 },
 {
 layerId = m020;

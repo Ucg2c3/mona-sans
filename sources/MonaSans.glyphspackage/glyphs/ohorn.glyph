@@ -151,11 +151,11 @@ alignment = -1;
 ref = o;
 },
 {
-pos = (340,-2);
+pos = (236,-2);
 ref = horncomb;
 }
 );
-width = 584;
+width = 582;
 },
 {
 layerId = m020;

@@ -146,7 +146,7 @@ pos = (15,57);
 ref = hookabovecomb;
 }
 );
-width = 246;
+width = 248;
 },
 {
 layerId = m020;

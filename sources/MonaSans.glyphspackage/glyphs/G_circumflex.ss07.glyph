@@ -141,11 +141,11 @@ shapes = (
 ref = G.ss07;
 },
 {
-pos = (239,57);
+pos = (237,57);
 ref = circumflexcomb;
 }
 );
-width = 799;
+width = 795;
 },
 {
 layerId = m020;

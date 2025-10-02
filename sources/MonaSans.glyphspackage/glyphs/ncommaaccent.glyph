@@ -145,11 +145,11 @@ shapes = (
 ref = n;
 },
 {
-pos = (175,0);
+pos = (173,0);
 ref = commaaccentcomb;
 }
 );
-width = 563;
+width = 557;
 },
 {
 layerId = m020;

@@ -190,11 +190,11 @@ shapes = (
 ref = one.numr;
 },
 {
-pos = (237,0);
+pos = (239,0);
 ref = fraction;
 },
 {
-pos = (353,0);
+pos = (358,0);
 ref = two.dnom;
 }
 );
@@ -202,7 +202,7 @@ userData = {
 com.schriftgestaltung.Glyphs.glyph.leftMetricsKey = one.numr;
 com.schriftgestaltung.Glyphs.glyph.rightMetricsKey = one.numr;
 };
-width = 701;
+width = 707;
 },
 {
 layerId = m020;

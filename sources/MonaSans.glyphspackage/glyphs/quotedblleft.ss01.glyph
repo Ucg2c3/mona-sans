@@ -130,11 +130,11 @@ shapes = (
 {
 alignment = 3;
 angle = 180;
-pos = (300,588);
+pos = (297,588);
 ref = quotedblbase.ss01;
 }
 );
-width = 300;
+width = 297;
 },
 {
 layerId = m020;

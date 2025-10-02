@@ -143,11 +143,11 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (-64,-161);
+pos = (-63,-161);
 ref = brevecomb;
 }
 );
-width = 205;
+width = 203;
 },
 {
 layerId = m020;

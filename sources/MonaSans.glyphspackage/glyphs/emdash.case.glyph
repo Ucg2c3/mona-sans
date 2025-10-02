@@ -118,7 +118,7 @@ pos = (0,106);
 ref = emdash;
 }
 );
-width = 630;
+width = 624;
 },
 {
 layerId = m020;

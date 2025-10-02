@@ -142,11 +142,11 @@ shapes = (
 ref = E;
 },
 {
-pos = (175,57);
+pos = (174,57);
 ref = circumflexcomb_hookabovecomb;
 }
 );
-width = 625;
+width = 623;
 },
 {
 layerId = m020;

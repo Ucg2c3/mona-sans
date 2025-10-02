@@ -149,11 +149,11 @@ shapes = (
 ref = O;
 },
 {
-pos = (203,57);
+pos = (201,57);
 ref = macroncomb;
 }
 );
-width = 805;
+width = 801;
 },
 {
 layerId = m020;

@@ -141,11 +141,11 @@ shapes = (
 ref = A;
 },
 {
-pos = (202,57);
+pos = (200,57);
 ref = dieresiscomb.ss01;
 }
 );
-width = 673;
+width = 670;
 },
 {
 layerId = m020;

@@ -136,7 +136,7 @@ shapes = (
 {
 alignment = 1;
 angle = 180;
-pos = (256,517);
+pos = (257,517);
 ref = exclam;
 }
 );
@@ -144,7 +144,7 @@ userData = {
 com.schriftgestaltung.Glyphs.glyph.leftMetricsKey = exclam;
 com.schriftgestaltung.Glyphs.glyph.rightMetricsKey = exclam;
 };
-width = 256;
+width = 257;
 },
 {
 layerId = m020;

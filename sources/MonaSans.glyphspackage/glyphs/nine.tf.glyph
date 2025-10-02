@@ -261,7 +261,7 @@ shapes = (
 {
 alignment = 1;
 angle = 180;
-pos = (595,729);
+pos = (589,729);
 ref = six.tf;
 }
 );
@@ -343,7 +343,7 @@ type = Stem;
 }
 );
 };
-width = 595;
+width = 589;
 },
 {
 layerId = m020;

@@ -144,11 +144,11 @@ shapes = (
 ref = uhorn;
 },
 {
-pos = (92,-155);
+pos = (91,-155);
 ref = tildecomb;
 }
 );
-width = 604;
+width = 598;
 },
 {
 layerId = m020;

@@ -145,11 +145,11 @@ shapes = (
 ref = Ohorn;
 },
 {
-pos = (330,0);
+pos = (327,0);
 ref = dotbelowcomb;
 }
 );
-width = 805;
+width = 801;
 },
 {
 layerId = m020;

@@ -115,7 +115,7 @@ pos = (0,213);
 ref = exclamdown.ss01;
 }
 );
-width = 228;
+width = 226;
 },
 {
 layerId = m020;

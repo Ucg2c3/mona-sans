@@ -142,11 +142,11 @@ shapes = (
 ref = g.ss06;
 },
 {
-pos = (196,-156);
+pos = (194,-156);
 ref = dotaccentcomb.ss01;
 }
 );
-width = 515;
+width = 510;
 },
 {
 layerId = m020;

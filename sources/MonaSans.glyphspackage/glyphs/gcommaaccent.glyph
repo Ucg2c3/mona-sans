@@ -146,11 +146,11 @@ shapes = (
 ref = g;
 },
 {
-pos = (243,-155);
+pos = (241,-155);
 ref = commaturnedabovecomb;
 }
 );
-width = 582;
+width = 580;
 },
 {
 layerId = m020;

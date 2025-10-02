@@ -228,11 +228,11 @@ shapes = (
 ref = _f.longarm;
 },
 {
-pos = (294,0);
+pos = (291,0);
 ref = i;
 }
 );
-width = 499;
+width = 494;
 },
 {
 background = {

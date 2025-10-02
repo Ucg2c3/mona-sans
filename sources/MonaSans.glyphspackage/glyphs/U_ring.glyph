@@ -151,11 +151,11 @@ shapes = (
 ref = U;
 },
 {
-pos = (230,57);
+pos = (227,57);
 ref = ringcomb;
 }
 );
-width = 726;
+width = 723;
 },
 {
 layerId = m020;

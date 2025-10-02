@@ -512,7 +512,7 @@ type = Stem;
 }
 );
 };
-width = 206;
+width = 204;
 },
 {
 background = {

@@ -143,7 +143,7 @@ pos = (-2,0);
 ref = commaaccentcomb;
 }
 );
-width = 206;
+width = 204;
 },
 {
 layerId = m020;

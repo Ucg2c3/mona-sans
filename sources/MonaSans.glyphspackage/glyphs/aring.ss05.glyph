@@ -145,11 +145,11 @@ shapes = (
 ref = a.ss05;
 },
 {
-pos = (119,-155);
+pos = (117,-155);
 ref = ringcomb;
 }
 );
-width = 524;
+width = 519;
 },
 {
 layerId = m020;

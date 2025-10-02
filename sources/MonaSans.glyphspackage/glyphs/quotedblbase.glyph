@@ -292,7 +292,7 @@ ref = comma;
 },
 {
 alignment = 1;
-pos = (128,0);
+pos = (127,0);
 ref = comma;
 }
 );
@@ -300,7 +300,7 @@ userData = {
 com.schriftgestaltung.Glyphs.glyph.leftMetricsKey = comma;
 com.schriftgestaltung.Glyphs.glyph.rightMetricsKey = comma;
 };
-width = 336;
+width = 337;
 },
 {
 background = {

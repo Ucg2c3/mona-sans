@@ -151,11 +151,11 @@ ref = l;
 },
 {
 alignment = 1;
-pos = (205,0);
+pos = (203,0);
 ref = periodcentered.loclCAT.ss01;
 }
 );
-width = 279;
+width = 276;
 },
 {
 layerId = m020;

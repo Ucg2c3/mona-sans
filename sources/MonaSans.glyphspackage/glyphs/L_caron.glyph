@@ -140,11 +140,11 @@ shapes = (
 ref = L;
 },
 {
-pos = (247,0);
+pos = (245,0);
 ref = caroncomb.alt;
 }
 );
-width = 576;
+width = 574;
 },
 {
 layerId = m020;

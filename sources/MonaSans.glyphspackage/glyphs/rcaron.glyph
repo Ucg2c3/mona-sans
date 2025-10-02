@@ -144,7 +144,7 @@ pos = (7,-155);
 ref = caroncomb;
 }
 );
-width = 332;
+width = 329;
 },
 {
 layerId = m020;

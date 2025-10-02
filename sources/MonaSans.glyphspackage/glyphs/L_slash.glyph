@@ -162,11 +162,11 @@ pos = (33,0);
 ref = L;
 },
 {
-pos = (3,25);
+pos = (4,25);
 ref = slashshortcomb.case;
 }
 );
-width = 571;
+width = 569;
 },
 {
 layerId = m020;

@@ -147,7 +147,7 @@ pos = (44,0);
 ref = dotbelowcomb.ss01;
 }
 );
-width = 205;
+width = 203;
 },
 {
 layerId = m020;

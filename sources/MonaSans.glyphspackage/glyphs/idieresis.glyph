@@ -143,11 +143,11 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (-58,-155);
+pos = (-57,-155);
 ref = dieresiscomb;
 }
 );
-width = 205;
+width = 207;
 },
 {
 layerId = m020;

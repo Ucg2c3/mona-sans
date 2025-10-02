@@ -151,11 +151,11 @@ shapes = (
 ref = U;
 },
 {
-pos = (229,57);
+pos = (226,57);
 ref = gravecomb;
 }
 );
-width = 726;
+width = 723;
 },
 {
 layerId = m020;

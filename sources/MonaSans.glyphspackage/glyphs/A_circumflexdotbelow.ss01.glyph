@@ -181,15 +181,15 @@ shapes = (
 ref = A;
 },
 {
-pos = (278,0);
+pos = (276,0);
 ref = dotbelowcomb.ss01;
 },
 {
-pos = (174,57);
+pos = (173,57);
 ref = circumflexcomb;
 }
 );
-width = 673;
+width = 670;
 },
 {
 layerId = m020;

@@ -141,11 +141,11 @@ shapes = (
 ref = Y;
 },
 {
-pos = (208,57);
+pos = (206,57);
 ref = hookabovecomb;
 }
 );
-width = 629;
+width = 627;
 },
 {
 layerId = m020;

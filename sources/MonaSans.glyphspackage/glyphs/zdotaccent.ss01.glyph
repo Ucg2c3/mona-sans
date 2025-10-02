@@ -145,11 +145,11 @@ shapes = (
 ref = z;
 },
 {
-pos = (181,-155);
+pos = (180,-155);
 ref = dotaccentcomb.ss01;
 }
 );
-width = 478;
+width = 473;
 },
 {
 layerId = m020;

@@ -145,11 +145,11 @@ shapes = (
 ref = a.ss05;
 },
 {
-pos = (53,-155);
+pos = (52,-155);
 ref = macroncomb;
 }
 );
-width = 524;
+width = 519;
 },
 {
 layerId = m020;

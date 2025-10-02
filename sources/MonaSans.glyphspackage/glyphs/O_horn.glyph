@@ -145,11 +145,11 @@ shapes = (
 ref = O;
 },
 {
-pos = (526,190);
+pos = (520,190);
 ref = horncomb;
 }
 );
-width = 805;
+width = 801;
 },
 {
 layerId = m020;

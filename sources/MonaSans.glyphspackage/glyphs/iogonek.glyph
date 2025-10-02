@@ -189,11 +189,11 @@ pos = (31,-133);
 ref = dotaccentcomb;
 },
 {
-pos = (-39,0);
+pos = (-38,0);
 ref = ogonekcomb;
 }
 );
-width = 205;
+width = 203;
 },
 {
 layerId = m020;

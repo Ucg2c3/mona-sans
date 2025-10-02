@@ -139,11 +139,11 @@ shapes = (
 ref = jdotless;
 },
 {
-pos = (-59,-155);
+pos = (-58,-155);
 ref = circumflexcomb;
 }
 );
-width = 206;
+width = 204;
 },
 {
 layerId = m020;

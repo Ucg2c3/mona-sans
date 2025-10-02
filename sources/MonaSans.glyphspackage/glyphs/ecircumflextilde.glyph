@@ -151,11 +151,11 @@ shapes = (
 ref = e;
 },
 {
-pos = (127,-155);
+pos = (126,-155);
 ref = circumflexcomb_tildecomb;
 }
 );
-width = 565;
+width = 563;
 },
 {
 layerId = m020;

@@ -325,7 +325,7 @@ name = "#entry";
 },
 {
 name = "#exit";
-pos = (205,0);
+pos = (203,0);
 }
 );
 layerId = m019;
@@ -402,7 +402,7 @@ type = Stem;
 }
 );
 };
-width = 205;
+width = 207;
 },
 {
 anchors = (

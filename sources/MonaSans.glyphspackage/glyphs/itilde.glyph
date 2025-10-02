@@ -143,11 +143,11 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (-85,-155);
+pos = (-84,-155);
 ref = tildecomb;
 }
 );
-width = 205;
+width = 203;
 },
 {
 layerId = m020;

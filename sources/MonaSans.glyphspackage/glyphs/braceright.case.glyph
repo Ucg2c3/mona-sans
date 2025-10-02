@@ -214,7 +214,7 @@ layerId = m019;
 shapes = (
 {
 angle = 180;
-pos = (374,729);
+pos = (370,729);
 ref = braceleft.case;
 }
 );
@@ -308,7 +308,7 @@ type = Stem;
 }
 );
 };
-width = 374;
+width = 370;
 },
 {
 layerId = m020;

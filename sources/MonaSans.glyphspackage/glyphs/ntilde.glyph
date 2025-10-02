@@ -145,11 +145,11 @@ shapes = (
 ref = n;
 },
 {
-pos = (93,-155);
+pos = (92,-155);
 ref = tildecomb;
 }
 );
-width = 563;
+width = 561;
 },
 {
 layerId = m020;

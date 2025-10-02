@@ -202,11 +202,11 @@ shapes = (
 ref = five.numr;
 },
 {
-pos = (381,0);
+pos = (377,0);
 ref = fraction;
 },
 {
-pos = (486,0);
+pos = (481,0);
 ref = eight.dnom;
 }
 );
@@ -214,7 +214,7 @@ userData = {
 com.schriftgestaltung.Glyphs.glyph.leftMetricsKey = five.numr;
 com.schriftgestaltung.Glyphs.glyph.rightMetricsKey = five.numr;
 };
-width = 874;
+width = 865;
 },
 {
 layerId = m020;

@@ -150,11 +150,11 @@ shapes = (
 ref = ohorn;
 },
 {
-pos = (162,-155);
+pos = (160,-155);
 ref = gravecomb;
 }
 );
-width = 584;
+width = 578;
 },
 {
 layerId = m020;

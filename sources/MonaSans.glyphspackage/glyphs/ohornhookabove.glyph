@@ -150,11 +150,11 @@ shapes = (
 ref = ohorn;
 },
 {
-pos = (188,-155);
+pos = (186,-155);
 ref = hookabovecomb;
 }
 );
-width = 584;
+width = 578;
 },
 {
 layerId = m020;

@@ -145,11 +145,11 @@ shapes = (
 ref = a.ss05;
 },
 {
-pos = (85,-161);
+pos = (84,-161);
 ref = brevecomb_gravecomb;
 }
 );
-width = 524;
+width = 519;
 },
 {
 layerId = m020;

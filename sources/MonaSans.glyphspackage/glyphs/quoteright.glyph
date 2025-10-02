@@ -135,7 +135,7 @@ userData = {
 com.schriftgestaltung.Glyphs.glyph.leftMetricsKey = quotedblright;
 com.schriftgestaltung.Glyphs.glyph.rightMetricsKey = quotedblright;
 };
-width = 208;
+width = 210;
 },
 {
 layerId = m020;

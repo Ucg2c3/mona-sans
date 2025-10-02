@@ -145,11 +145,11 @@ shapes = (
 ref = a.ss05;
 },
 {
-pos = (144,-155);
+pos = (142,-155);
 ref = hookabovecomb;
 }
 );
-width = 524;
+width = 519;
 },
 {
 layerId = m020;

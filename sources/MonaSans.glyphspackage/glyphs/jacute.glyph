@@ -144,7 +144,7 @@ pos = (49,-155);
 ref = acutecomb;
 }
 );
-width = 206;
+width = 204;
 },
 {
 layerId = m020;

@@ -1333,7 +1333,7 @@ alignment = 1;
 ref = _B.currency;
 },
 {
-pos = (194,0);
+pos = (192,0);
 ref = _bitcoin.bars;
 }
 );
@@ -1423,7 +1423,7 @@ type = Stem;
 }
 );
 };
-width = 685;
+width = 678;
 },
 {
 background = {

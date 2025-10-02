@@ -345,7 +345,7 @@ width = 199;
 anchors = (
 {
 name = "#entry";
-pos = (2,0);
+pos = (4,0);
 },
 {
 name = "#exit";
@@ -357,12 +357,12 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(93,492,l),
-(99,623,l),
-(99,729,l),
-(66,729,l),
-(66,623,l),
-(73,492,l)
+(94,492,l),
+(100,623,l),
+(100,729,l),
+(67,729,l),
+(67,623,l),
+(74,492,l)
 );
 }
 );
@@ -370,7 +370,7 @@ userData = {
 com.schriftgestaltung.Glyphs.glyph.leftMetricsKey = quotedbl;
 com.schriftgestaltung.Glyphs.glyph.rightMetricsKey = quotedbl;
 };
-width = 165;
+width = 167;
 },
 {
 anchors = (

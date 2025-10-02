@@ -228,11 +228,11 @@ shapes = (
 ref = f;
 },
 {
-pos = (249,0);
+pos = (246,0);
 ref = y;
 }
 );
-width = 737;
+width = 729;
 },
 {
 background = {

@@ -282,7 +282,7 @@ layerId = m019;
 shapes = (
 {
 angle = 180;
-pos = (393,398);
+pos = (389,398);
 ref = six.dnom;
 }
 );
@@ -365,7 +365,7 @@ type = Stem;
 }
 );
 };
-width = 393;
+width = 389;
 },
 {
 layerId = m020;

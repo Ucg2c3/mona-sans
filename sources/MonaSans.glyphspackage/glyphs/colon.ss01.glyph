@@ -176,7 +176,7 @@ pos = (0,456);
 ref = period.ss01;
 }
 );
-width = 164;
+width = 162;
 },
 {
 layerId = m020;

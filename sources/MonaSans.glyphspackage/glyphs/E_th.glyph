@@ -162,11 +162,11 @@ pos = (44,0);
 ref = D;
 },
 {
-pos = (1,-23);
+pos = (2,-23);
 ref = strokeshortcomb.case;
 }
 );
-width = 778;
+width = 774;
 },
 {
 layerId = m020;

@@ -456,6 +456,7 @@ width = 281;
 anchors = (
 {
 name = "#entry";
+pos = (2,0);
 },
 {
 name = "#exit";
@@ -463,19 +464,19 @@ pos = (205,0);
 },
 {
 name = bottom;
-pos = (103,0);
+pos = (104,0);
 },
 {
 name = center;
-pos = (103,365);
+pos = (104,365);
 },
 {
 name = top;
-pos = (103,759);
+pos = (104,759);
 },
 {
 name = topright;
-pos = (121,759);
+pos = (122,759);
 }
 );
 layerId = m019;
@@ -483,10 +484,10 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(121,0,l),
-(121,759,l),
-(84,759,l),
-(84,0,l)
+(122,0,l),
+(122,759,l),
+(85,759,l),
+(85,0,l)
 );
 }
 );
@@ -538,7 +539,7 @@ type = Stem;
 }
 );
 };
-width = 205;
+width = 207;
 },
 {
 anchors = (

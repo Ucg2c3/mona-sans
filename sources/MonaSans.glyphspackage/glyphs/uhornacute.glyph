@@ -144,11 +144,11 @@ shapes = (
 ref = uhorn;
 },
 {
-pos = (225,-155);
+pos = (223,-155);
 ref = acutecomb;
 }
 );
-width = 604;
+width = 598;
 },
 {
 layerId = m020;

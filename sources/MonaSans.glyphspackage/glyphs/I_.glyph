@@ -385,19 +385,19 @@ width = 293;
 anchors = (
 {
 name = bottom;
-pos = (123,0);
+pos = (124,0);
 },
 {
 name = ogonek;
-pos = (142,0);
+pos = (143,0);
 },
 {
 name = top;
-pos = (123,729);
+pos = (124,729);
 },
 {
 name = topleft;
-pos = (22,729);
+pos = (24,729);
 }
 );
 layerId = m019;
@@ -405,10 +405,10 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(142,0,l),
-(142,729,l),
-(104,729,l),
-(104,0,l)
+(143,0,l),
+(143,729,l),
+(105,729,l),
+(105,0,l)
 );
 }
 );
@@ -460,7 +460,7 @@ type = Stem;
 }
 );
 };
-width = 246;
+width = 248;
 },
 {
 anchors = (

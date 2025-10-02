@@ -143,11 +143,11 @@ shapes = (
 ref = A;
 },
 {
-pos = (165,57);
+pos = (164,57);
 ref = brevecomb_tildecomb;
 }
 );
-width = 673;
+width = 670;
 },
 {
 layerId = m020;

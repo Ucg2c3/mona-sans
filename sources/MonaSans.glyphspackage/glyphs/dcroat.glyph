@@ -144,11 +144,11 @@ shapes = (
 ref = d;
 },
 {
-pos = (255,339);
+pos = (253,339);
 ref = strokeshortcomb;
 }
 );
-width = 583;
+width = 581;
 },
 {
 layerId = m020;

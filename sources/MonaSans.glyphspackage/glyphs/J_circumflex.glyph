@@ -141,7 +141,7 @@ shapes = (
 ref = J;
 },
 {
-pos = (106,57);
+pos = (105,57);
 ref = circumflexcomb;
 }
 );

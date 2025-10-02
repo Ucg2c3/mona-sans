@@ -143,7 +143,7 @@ pos = (31,0);
 ref = dotbelowcomb;
 }
 );
-width = 205;
+width = 203;
 },
 {
 layerId = m020;

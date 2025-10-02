@@ -161,11 +161,11 @@ pos = (18,0);
 ref = l;
 },
 {
-pos = (-13,23);
+pos = (-113,23);
 ref = slashshortcomb;
 }
 );
-width = 243;
+width = 245;
 },
 {
 layerId = m020;

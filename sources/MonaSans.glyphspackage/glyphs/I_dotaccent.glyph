@@ -146,7 +146,7 @@ pos = (51,79);
 ref = dotaccentcomb;
 }
 );
-width = 246;
+width = 248;
 },
 {
 layerId = m020;

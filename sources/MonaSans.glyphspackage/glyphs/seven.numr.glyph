@@ -310,7 +310,7 @@ type = Stem;
 }
 );
 };
-width = 325;
+width = 322;
 },
 {
 layerId = m020;

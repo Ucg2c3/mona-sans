@@ -112,7 +112,7 @@ alignment = 1;
 ref = comma.ss01;
 }
 );
-width = 161;
+width = 159;
 },
 {
 layerId = m020;

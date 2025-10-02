@@ -297,15 +297,15 @@ width = 287;
 anchors = (
 {
 name = bottom;
-pos = (103,0);
+pos = (104,0);
 },
 {
 name = ogonek;
-pos = (121,0);
+pos = (122,0);
 },
 {
 name = top;
-pos = (103,517);
+pos = (104,517);
 }
 );
 layerId = m019;
@@ -313,14 +313,14 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(121,0,l),
-(121,517,l),
-(84,517,l),
-(84,0,l)
+(122,0,l),
+(122,517,l),
+(85,517,l),
+(85,0,l)
 );
 }
 );
-width = 205;
+width = 207;
 },
 {
 anchors = (

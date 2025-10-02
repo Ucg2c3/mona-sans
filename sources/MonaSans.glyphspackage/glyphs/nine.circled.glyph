@@ -1154,7 +1154,7 @@ ref = whiteCircle;
 },
 {
 angle = 180;
-pos = (642,537);
+pos = (636,537);
 ref = sixinferior;
 }
 );
@@ -1165,7 +1165,7 @@ weight = -50;
 width = 55;
 };
 };
-width = 863;
+width = 854;
 },
 {
 background = {

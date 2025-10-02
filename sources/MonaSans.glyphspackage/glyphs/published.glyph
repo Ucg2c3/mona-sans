@@ -1026,7 +1026,7 @@ ref = whiteCircle;
 },
 {
 alignment = 1;
-pos = (296,0);
+pos = (293,0);
 ref = _published.P;
 }
 );
@@ -1132,7 +1132,7 @@ type = Stem;
 }
 );
 };
-width = 863;
+width = 854;
 },
 {
 background = {
