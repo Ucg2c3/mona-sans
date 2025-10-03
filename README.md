@@ -6,7 +6,7 @@ A strong and versatile typeface, designed together with [Degarism](https://degar
 
 Mona Sans is a [variable font](https://web.dev/variable-fonts/). Variable fonts enable different variations of a typeface to be incorporated into one single file, and are supported by all major browsers, allowing for performance benefits and granular design control of the typeface's weight, width, and slant.
 
-![mona-sans](https://user-images.githubusercontent.com/99746865/200648883-dbd47e9a-9d95-483e-aef6-1bfa602eb942.png)
+![mona-sans](https://github.com/user-attachments/assets/3d9667f5-30ad-4b95-bc8a-58e38767187c)
 
 ## Variable font usage
 
@@ -52,20 +52,20 @@ Or you can use one of the other variable font files, which cover small portions 
 
 ## Stylistic sets
 
-Mona Sans has eight stylistic sets:
+Mona Sans has ten stylistic sets:
 
 | Set | Description | Example |
 | --- | --- | --- | 
-| ss01 | Square diacritical marks | ![ss01](https://github.com/user-attachments/assets/18fa3132-6839-4ef9-afd9-c75a082899ef) |
-| ss02 | Wide uppercase I | ![ss02](https://github.com/user-attachments/assets/a0de7f9c-f9c0-4583-ac32-a10d25a54328) |
-| ss03 | Lowercase l with tail | ![ss03](https://github.com/user-attachments/assets/8594effd-0528-4af9-8c58-0dfba66b2b45) |
-| ss04 | Lowercase l with top serif | ![ss04](https://github.com/user-attachments/assets/7c7610a9-947e-45d5-80fc-71849a257d82) |
-| ss05 | Double-storey a | ![ss05](https://github.com/user-attachments/assets/d31a11b8-1809-4a34-bbcb-b8b7057ddef0) |
-| ss06 | Double-storey g | ![ss06](https://github.com/user-attachments/assets/ca8bef04-68d8-4c36-bfa6-8313d5642a9d) |
-| ss07 | Square G | ![ss07](https://github.com/user-attachments/assets/4d5fb045-df90-4dc7-8dbb-3f2a271477df) |
-| ss08 | Tabular zero with straight bar | ![ss08](https://github.com/user-attachments/assets/6c54f0eb-0054-4876-a366-1c00d955b89b) |
-| ss09 | Q with diagonal arm | - |
-| ss10 | J with bowl | - |
+| ss01 | Square diacritical marks | ![ss01](https://github.com/user-attachments/assets/c8be9ca8-8d7a-46d5-843a-7dfc0ca9a171) |
+| ss02 | Wide uppercase I | ![ss02](https://github.com/user-attachments/assets/f971d907-c8a5-4fbf-ac75-bf3411a00f57) |
+| ss03 | Lowercase l with tail | ![ss03](https://github.com/user-attachments/assets/e20dd37c-f7ba-4964-8888-dd679ed7d3fc) |
+| ss04 | Lowercase l with top serif | ![ss04](https://github.com/user-attachments/assets/6aa71393-642e-4989-843d-4c2b9d6b5a1c) |
+| ss05 | Double-storey a | ![ss05](https://github.com/user-attachments/assets/c411d743-0bb8-4f15-ad30-769c6d5b83d5) |
+| ss06 | Double-storey g | ![ss06](https://github.com/user-attachments/assets/cc640587-6505-49a9-836c-a4a091b0a4cb) |
+| ss07 | Square G | ![ss07](https://github.com/user-attachments/assets/2c973b98-8398-4ab2-bb74-45980de799ea) |
+| ss08 | Tabular zero with straight bar | ![ss08](https://github.com/user-attachments/assets/1efe404b-ca17-4dbb-877e-47a7080d2785) |
+| ss09 | Q with diagonal arm | ![ss09](https://github.com/user-attachments/assets/5f7f28e7-d325-496a-8362-21d7a71b362a) |
+| ss10 | J with bowl | ![ss10](https://github.com/user-attachments/assets/5a0776c8-8acf-41ad-ba23-e26515bc1f8e) |
 
 When using Mona Sans on the web, you can control each stylistic set with the syntax `"ssXX" on/off`. If you wanted square diacritical marks, small letter L distinct from capital I, and alternative small letter g it would look like this:
 
@@ -115,6 +115,8 @@ With the newly added monospace and display styles, Mona Sans’ design space now
 | - | 72 | Display |
 
 ### Mona Sans Monospace Styles
+
+![mona-mono](https://github.com/user-attachments/assets/dd55d2ac-8ba4-4126-89e3-6b125b090fc7)
 
 | Family or Axes | Mapping | Styles |
 | --- | --- | --- |
