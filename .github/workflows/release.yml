@@ -94,7 +94,7 @@ jobs:
           
           ## Font Specifications
           
-          - **Weight Range**: 100-900 (Thin to Black)
+          - **Weight Range**: 200-900 (ExtraLight to Black)
           - **Width Range**: 75-125 (Condensed to Expanded)
           - **Styles**: Roman and Italic
           - **Format Support**: OTF, TTF, Variable TTF, WOFF, WOFF2
