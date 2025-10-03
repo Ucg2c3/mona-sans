@@ -198,9 +198,7 @@ pos = (315,521);
 associatedMasterId = m019;
 attr = {
 coordinates = (
-100,
-300,
-0
+300
 );
 };
 background = {
